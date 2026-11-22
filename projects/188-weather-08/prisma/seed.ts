@@ -1,0 +1,17 @@
+import { PrismaClient } from '@prisma/client';
+
+const prisma = new PrismaClient();
+
+async function main() {
+
+  await prisma.report.createMany({
+    data: [
+      { title: '첫 번째 날씨 기록 예시', content: '오늘 날씨를 API로 불러와 그날의 기분과 함께 일기로 저장하는 사이트입니다', author: '관리자' },
+      { title: '두 번째 날씨 기록 예시', content: 'prisma/seed.ts에서 넣은 샘플 데이터입니다. 실제 내용으로 바꿔보세요.', author: '데모 사용자' },
+      { title: '세 번째 날씨 기록 예시', content: '목록/검색/상세 흐름을 확인하기 위한 테스트 데이터입니다.', author: '테스터' }
+    ],
+  });
+  console.log('seed complete');
+}
+
+main().finally(() => prisma.$disconnect());
