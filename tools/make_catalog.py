@@ -11,7 +11,7 @@ HTML = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>풀스택 프로젝트 200 — Moon Codes</title>
+<title>풀스택 프로젝트 __TOTAL__ — Moon Codes</title>
 <style>
   * { box-sizing: border-box; margin: 0; }
   body { font-family: system-ui, 'Segoe UI', sans-serif; background: #0b0e14; color: #e8eaf0; }
@@ -46,8 +46,8 @@ HTML = """<!DOCTYPE html>
 </head>
 <body>
 <header>
-  <h1>풀스택 프로젝트 <span>200</span></h1>
-  <p class="sub">초보자가 끝까지 만들어보는 풀스택 포트폴리오 프로젝트 200선. 전부 실제로 동작하는 코드입니다 — 회원가입·로그인, DB CRUD, 댓글, 좋아요, 검색, 파일 업로드, 관리자 통계까지 주제별로 구현되어 있어요.</p>
+  <h1>풀스택 프로젝트 <span>__TOTAL__</span></h1>
+  <p class="sub">초보자가 끝까지 만들어보는 풀스택 포트폴리오 프로젝트 __TOTAL__선. 전부 실제로 동작하는 코드입니다 — 회원가입·로그인, DB CRUD, 댓글, 좋아요, 검색, 파일 업로드, 관리자 통계까지 주제별로 구현되어 있어요.</p>
   <p class="stack">Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Prisma · SQLite — 반응형 UI</p>
 </header>
 <div class="controls">
@@ -97,7 +97,7 @@ render();
 
 def main():
     catalog = json.loads((ROOT / "catalog.json").read_text(encoding="utf-8"))
-    html = HTML.replace("__DATA__", json.dumps(catalog, ensure_ascii=False)).replace("__REPO__", REPO)
+    html = HTML.replace("__DATA__", json.dumps(catalog, ensure_ascii=False)).replace("__REPO__", REPO).replace("__TOTAL__", str(len(catalog)))
     (ROOT / "index.html").write_text(html, encoding="utf-8")
     print("catalog index.html written", len(html), "bytes")
 
