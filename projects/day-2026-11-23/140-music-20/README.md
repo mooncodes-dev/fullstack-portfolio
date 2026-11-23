@@ -1,0 +1,61 @@
+# 음악 추천 알고리즘 체험 플랫폼
+
+> 음악 추천 및 공유 플랫폼 · 난이도 심화 · 풀스택 프로젝트 #140
+
+좋아요 기록을 바탕으로 노래를 추천해 주는 알고리즘을 체험하는 플랫폼이다. 회원가입과 로그인을 하면 내 취향 데이터를 등록하고, 곡을 검색하며, 플레이리스트 파일을 파일 업로드로 가져올 수 있고, 관리자가 추천 결과를 검수한다.
+
+## 기술 스택
+
+- **Frontend**: Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4 — 반응형(모바일/태블릿/데스크톱) UI
+- **Backend**: Next.js Route Handlers (REST API), Zod 입력 검증
+- **Database**: Prisma ORM + SQLite (스키마만 바꾸면 PostgreSQL/MySQL로 전환 가능)
+- **Auth**: JWT(jose) + bcryptjs 비밀번호 해시
+
+## 핵심 기능
+
+- 회원가입/로그인 — bcrypt 비밀번호 해시 + JWT(jose) 토큰 인증
+- 좋아요 (낙관적 업데이트로 즉시 반영)
+- 키워드 검색 — 제목/내용 서버 사이드 필터링
+- 파일 업로드 — 서버 저장 후 URL 반환
+- 관리자 통계 — 전체 항목 수/총 조회수/총 좋아요 대시보드
+- 곡 CRUD (등록/목록/상세/수정/삭제) + 조회수 자동 증가
+- 시드 데이터 포함 — 설치 후 바로 화면에서 확인 가능
+
+## 실행 방법
+
+```bash
+npm install
+cp .env.example .env
+npm run db:push     # DB 테이블 생성
+npm run db:seed     # 샘플 데이터 입력
+npm run dev         # http://localhost:3000
+```
+
+데모 계정: `demo@example.com` / `demo1234` (seed로 자동 생성)
+
+## API
+
+| 메서드 | 경로 | 설명 |
+|---|---|---|
+| GET | `/api/tracks` | 곡 목록 (최신순) |
+| POST | `/api/tracks` | 곡 등록 |
+| GET | `/api/tracks/[id]` | 곡 상세 (조회수 +1) |
+| PUT | `/api/tracks/[id]` | 곡 수정 |
+| DELETE | `/api/tracks/[id]` | 곡 삭제 |
+| POST | `/api/auth/register`, `/api/auth/login` | 회원가입 / 로그인 (JWT 발급) |
+| POST | `/api/tracks/[id]/like` | 좋아요 +1 |
+| GET | `/api/tracks?q=키워드` | 키워드 검색 |
+| POST | `/api/upload` | 파일 업로드 (multipart) |
+| GET | `/api/admin/stats` | 관리자 통계 |
+
+## 폴더 구조
+
+```
+prisma/           # schema.prisma (DB 모델), seed.ts (샘플 데이터)
+src/app/          # 페이지(UI)와 api/ 라우트 핸들러
+src/lib/          # db.ts (Prisma 클라이언트), auth.ts (JWT/비밀번호 해시)
+```
+
+## 확장 아이디어
+
+- 실제 서비스로 키우려면: 이미지 스토리지(S3), 소셜 로그인, 배포(Vercel + PlanetScale/Neon)부터 붙여보세요.
