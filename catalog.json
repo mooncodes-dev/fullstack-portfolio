@@ -11905,5 +11905,3049 @@
   "label": "날씨 기록",
   "day": 4,
   "date": "2026-11-25"
+ },
+ {
+  "num": 801,
+  "title": "나의 저녁 루틴 소개 페이지",
+  "desc": "저녁 시간의 루틴을 시간대별로 소개하고, 루틴 이름으로 검색할 수 있다. 루틴 항목은 추가·수정·삭제가 가능하다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/001-intro-01",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 802,
+  "title": "좋아하는 시와 문장 소개 페이지",
+  "desc": "마음에 드는 시와 문장을 모아 소개하고, 방문자가 문장에 댓글을 남길 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/002-intro-02",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 803,
+  "title": "나의 여행 버킷리스트 소개 페이지",
+  "desc": "가보고 싶은 여행지를 버킷리스트로 소개하고, 여행지 이름으로 검색할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/003-intro-03",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 804,
+  "title": "나의 우표 수집 일지 소개 페이지",
+  "desc": "모은 우표의 사진을 파일로 업로드해 소개하고, 방문자가 우표에 좋아요를 누를 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "likes",
+   "upload"
+  ],
+  "folder": "day-2026-11-26/004-intro-04",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 805,
+  "title": "나의 건강 검진 기록 소개 페이지",
+  "desc": "받은 건강 검진 결과를 정리하고, 회원가입과 로그인으로 나만의 검진 기록을 관리할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/005-intro-05",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 806,
+  "title": "내가 좋아하는 계절 소개 페이지",
+  "desc": "좋아하는 계절의 풍경과 활동을 소개하고, 방문자가 계절 사진에 댓글을 남길 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/006-intro-06",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 807,
+  "title": "나의 사진 촬영 노하우 소개 페이지",
+  "desc": "사진을 잘 찍는 노하우를 정리하고, 촬영 장소로 글을 검색할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/007-intro-07",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 808,
+  "title": "나의 요리 실수담 소개 페이지",
+  "desc": "요리하다 생긴 실수담과 해결법을 소개하고, 요리 사진을 파일로 업로드할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/008-intro-08",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 809,
+  "title": "나의 출퇴근 시간 활용 소개 페이지",
+  "desc": "출퇴근 시간을 활용하는 방법을 소개하고, 방문자가 방법에 좋아요를 누를 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/009-intro-09",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 810,
+  "title": "내가 다니는 도서관 소개 페이지",
+  "desc": "자주 가는 도서관의 좌석과 분위기를 소개하고, 방문자가 도서관에 댓글을 남길 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/010-intro-10",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 811,
+  "title": "나의 취미 방 꾸미기 소개 페이지",
+  "desc": "취미를 즐기는 방의 모습을 소개하고, 회원가입과 로그인으로 나만의 방 꾸미기 기록을 관리할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/011-intro-11",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 812,
+  "title": "좋아하는 향수 소개 페이지",
+  "desc": "좋아하는 향수를 모아 소개하고, 향수 이름으로 검색할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/012-intro-12",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 813,
+  "title": "나의 일기 쓰기 습관 소개 페이지",
+  "desc": "일기를 쓰는 습관과 방법을 소개하고, 방문자가 습관 글에 좋아요와 댓글을 남길 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/013-intro-13",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 814,
+  "title": "수집한 티켓과 스티커 소개 페이지",
+  "desc": "모은 공연 티켓과 스티커를 소개하고, 티켓 사진을 파일로 업로드할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/014-intro-14",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 815,
+  "title": "나의 언어 공부 노트 소개 페이지",
+  "desc": "언어를 공부하며 정리한 노트를 소개하고, 회원가입과 로그인으로 나만의 공부 노트를 관리할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/015-intro-15",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 816,
+  "title": "나의 자전거 여행 기록 소개 페이지",
+  "desc": "자전거로 다녀온 여행을 소개하고, 코스 이름으로 기록을 검색할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/016-intro-16",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 817,
+  "title": "내가 키우는 다육식물 소개 페이지",
+  "desc": "키우는 다육식물의 종류와 관리법을 소개하고, 식물 사진을 파일로 업로드할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "심화",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/017-intro-17",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 818,
+  "title": "나의 새해 목표 소개 페이지",
+  "desc": "새해에 이루고 싶은 목표를 소개하고, 방문자가 목표에 댓글을 남길 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/018-intro-18",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 819,
+  "title": "좋아하는 동네 산책길 소개 페이지",
+  "desc": "좋아하는 동네 산책길을 사진과 함께 소개하고, 산책길 사진을 파일로 업로드할 수 있다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "심화",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/019-intro-19",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 820,
+  "title": "나만의 일상 기록 종합 소개 페이지",
+  "desc": "소개, 습관, 기록을 한 화면에 모으고, 관리자가 방명록과 문의를 한곳에서 관리할 수 있다. 회원가입과 로그인으로 프로필을 관리한다.",
+  "category": "나만의 소개 웹페이지",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/020-intro-20",
+  "resource": "entries",
+  "label": "항목",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 821,
+  "title": "저녁 산책 일기 블로그",
+  "desc": "저녁에 산책하며 느낀 점을 기록하고, 산책 사진을 파일로 업로드할 수 있다. 글은 작성·수정·삭제가 가능하다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/021-blog-01",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 822,
+  "title": "나만의 차 마시기 블로그",
+  "desc": "즐겨 마시는 차와 다도를 기록하고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/022-blog-02",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 823,
+  "title": "아침 스트레칭 기록 블로그",
+  "desc": "아침에 하는 스트레칭을 기록하고, 동작 이름으로 글을 검색할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/023-blog-03",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 824,
+  "title": "독서 모임 후기 블로그",
+  "desc": "독서 모임에서 나눈 이야기를 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/024-blog-04",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 825,
+  "title": "주말 시장 탐방 블로그",
+  "desc": "주말마다 찾은 전통시장을 기록하고, 회원가입과 로그인으로 나만의 시장 글을 관리할 수 있다. 방문자가 글에 좋아요를 누를 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "auth",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/025-blog-05",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 826,
+  "title": "나의 재봉 일지 블로그",
+  "desc": "재봉으로 만든 소품을 기록하고, 회원가입과 로그인으로 나만의 재봉 글을 관리할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/026-blog-06",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 827,
+  "title": "바다 사진 기록 블로그",
+  "desc": "바닷가에서 찍은 사진을 정리하고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/027-blog-07",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 828,
+  "title": "손뜨개 소품 블로그",
+  "desc": "손뜨개로 만든 소품을 기록하고, 사진을 파일로 업로드할 수 있다. 글은 추가·수정·삭제가 가능하다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/028-blog-08",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 829,
+  "title": "매일 감사 일기 블로그",
+  "desc": "매일 감사한 일을 기록하고, 방문자가 글에 좋아요를 누를 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/029-blog-09",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 830,
+  "title": "나의 자격증 공부 블로그",
+  "desc": "자격증 공부의 진도를 기록하고, 과목 이름으로 글을 검색할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/030-blog-10",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 831,
+  "title": "동네 카페 탐방 블로그",
+  "desc": "동네 카페의 메뉴와 분위기를 기록하고, 회원가입과 로그인으로 카페 글을 관리할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/031-blog-11",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 832,
+  "title": "반려견 훈련 일기 블로그",
+  "desc": "반려견 훈련 과정과 성과를 기록하고, 방문자가 훈련 글에 댓글을 남길 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/032-blog-12",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 833,
+  "title": "도시 농사 기록 블로그",
+  "desc": "도시에서 텃밭을 가꾸는 과정을 기록하고, 방문자가 글에 좋아요와 댓글을 남길 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/033-blog-13",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 834,
+  "title": "자전거 출근 기록 블로그",
+  "desc": "자전거로 출근한 기록을 정리하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/034-blog-14",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 835,
+  "title": "나의 요리 도전 실패 블로그",
+  "desc": "요리 도전의 실패담과 배운 점을 기록하고, 요리 이름으로 글을 검색할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/035-blog-15",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 836,
+  "title": "새벽 글쓰기 블로그",
+  "desc": "새벽에 쓴 글과 생각을 기록하고, 방문자가 글에 좋아요를 누를 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/036-blog-16",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 837,
+  "title": "영화 속 장소 탐방 블로그",
+  "desc": "영화에 나온 장소를 직접 찾아 기록하고, 회원가입과 로그인으로 나만의 탐방 글을 관리할 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/037-blog-17",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 838,
+  "title": "나의 베이킹 도전 블로그",
+  "desc": "베이킹 도전 과정을 사진과 함께 기록하고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/038-blog-18",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 839,
+  "title": "계절별 산책 기록 블로그",
+  "desc": "계절마다 걸은 산책길을 기록하고, 방문자가 산책 글에 좋아요를 누를 수 있다.",
+  "category": "간단한 블로그",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/039-blog-19",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 840,
+  "title": "소도시 카페 탐방 블로그 플랫폼",
+  "desc": "여러 소도시의 카페를 여러 필자가 함께 기록하고, 관리자가 글을 승인하고 지역을 관리할 수 있다. 회원가입과 로그인으로 필자를 구분한다.",
+  "category": "간단한 블로그",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/040-blog-20",
+  "resource": "posts",
+  "label": "글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 841,
+  "title": "그래픽 디자이너 포트폴리오",
+  "desc": "작업한 그래픽 디자인 프로젝트를 소개하고, 프로젝트 이름으로 검색할 수 있다. 프로젝트는 추가·수정·삭제가 가능하다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/041-portfolio-01",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 842,
+  "title": "모션 그래픽 포트폴리오",
+  "desc": "만든 모션 그래픽 영상을 모아 소개하고, 방문자가 영상에 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/042-portfolio-02",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 843,
+  "title": "사진작가 인물 포트폴리오",
+  "desc": "촬영한 인물 사진을 소개하고, 촬영 스타일로 작품을 검색할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/043-portfolio-03",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 844,
+  "title": "프론트엔드 개발자 포트폴리오",
+  "desc": "만든 웹 화면과 인터랙션을 소개하고, 프로젝트 화면을 파일로 업로드할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/044-portfolio-04",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 845,
+  "title": "백엔드 개발자 포트폴리오",
+  "desc": "만든 API와 서버 프로젝트를 소개하고, 방문자가 프로젝트에 좋아요를 누를 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/045-portfolio-05",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 846,
+  "title": "데이터 과학자 포트폴리오",
+  "desc": "분석한 데이터 프로젝트를 소개하고, 회원가입과 로그인으로 나만의 분석 기록을 관리할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/046-portfolio-06",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 847,
+  "title": "콘텐츠 크리에이터 포트폴리오",
+  "desc": "만든 콘텐츠와 채널을 소개하고, 방문자가 콘텐츠에 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/047-portfolio-07",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 848,
+  "title": "헤어 디자이너 포트폴리오",
+  "desc": "작업한 헤어스타일 사진을 소개하고, 스타일 이름으로 작품을 검색할 수 있다. 방문자가 사진에 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "comments",
+   "search"
+  ],
+  "folder": "day-2026-11-26/048-portfolio-08",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 849,
+  "title": "플로리스트 작품 포트폴리오",
+  "desc": "만든 꽃다발과 플라워 작품을 소개하고, 작품 사진을 파일로 업로드할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/049-portfolio-09",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 850,
+  "title": "주얼리 디자이너 포트폴리오",
+  "desc": "디자인한 주얼리를 소개하고, 방문자가 작품에 좋아요를 누를 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/050-portfolio-10",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 851,
+  "title": "게임 디자이너 포트폴리오",
+  "desc": "기획한 게임의 컨셉과 화면을 소개하고, 회원가입과 로그인으로 나만의 기획 기록을 관리할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/051-portfolio-11",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 852,
+  "title": "무대 디자이너 포트폴리오",
+  "desc": "디자인한 무대와 공연을 소개하고, 방문자가 작품에 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/052-portfolio-12",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 853,
+  "title": "도예가 작품 포트폴리오",
+  "desc": "빚은 도자기 작품을 소개하고, 작품 이름으로 검색할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/053-portfolio-13",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 854,
+  "title": "뮤지션 앨범 포트폴리오",
+  "desc": "발표한 앨범과 수록곡을 소개하고, 앨범 사진을 파일로 업로드할 수 있다. 방문자가 앨범에 좋아요를 누를 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes",
+   "upload"
+  ],
+  "folder": "day-2026-11-26/054-portfolio-14",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 855,
+  "title": "방송 작가 포트폴리오",
+  "desc": "쓴 방송 대본과 기획안을 소개하고, 방문자가 작품에 좋아요와 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/055-portfolio-15",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 856,
+  "title": "웹툰 작가 작품 포트폴리오",
+  "desc": "연재한 웹툰의 회차와 장면을 소개하고, 회원가입과 로그인으로 나만의 연재 기록을 관리할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/056-portfolio-16",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 857,
+  "title": "요리사 레시피 포트폴리오",
+  "desc": "만든 요리와 레시피를 소개하고, 방문자가 요리에 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/057-portfolio-17",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 858,
+  "title": "스포츠 사진작가 포트폴리오",
+  "desc": "촬영한 스포츠 장면을 소개하고, 종목으로 작품을 검색할 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/058-portfolio-18",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 859,
+  "title": "아트 테라피스트 포트폴리오",
+  "desc": "진행한 아트 테라피 활동과 작품을 소개하고, 방문자가 사진에 좋아요와 댓글을 남길 수 있다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/059-portfolio-19",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 860,
+  "title": "프리랜서 종합 포트폴리오 플랫폼",
+  "desc": "여러 프리랜서의 작품을 한곳에 모으고, 관리자가 작품을 승인하고 직군을 관리할 수 있다. 회원가입과 로그인으로 프리랜서를 구분한다.",
+  "category": "포트폴리오 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/060-portfolio-20",
+  "resource": "projects",
+  "label": "프로젝트",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 861,
+  "title": "계란 없는 디저트 레시피 모음",
+  "desc": "계란 없이 만드는 디저트를 소개하고, 완성 사진을 파일로 업로드할 수 있다. 레시피는 추가·수정·삭제가 가능하다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/061-recipes-01",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 862,
+  "title": "오븐 없는 베이킹 레시피 공유",
+  "desc": "오븐 없이 만드는 베이킹 레시피를 공유하고, 방문자가 레시피에 댓글을 남길 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/062-recipes-02",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 863,
+  "title": "채소 수프 레시피 모음",
+  "desc": "채소로 만드는 수프를 소개하고, 재료로 레시피를 검색할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/063-recipes-03",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 864,
+  "title": "김치찌개 변형 레시피",
+  "desc": "김치찌개를 색다르게 만드는 법을 소개하고, 요리 사진을 파일로 업로드할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/064-recipes-04",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 865,
+  "title": "제철 과일 샐러드 레시피 공유",
+  "desc": "제철 과일로 만드는 샐러드를 공유하고, 회원가입과 로그인으로 나만의 샐러드 레시피를 관리할 수 있다. 방문자가 레시피에 좋아요를 누를 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "auth",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/065-recipes-05",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 866,
+  "title": "남은 밥 활용 레시피 모음",
+  "desc": "남은 밥으로 만드는 요리를 소개하고, 회원가입과 로그인으로 나만의 레시피를 관리할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/066-recipes-06",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 867,
+  "title": "저염 반찬 레시피 공유",
+  "desc": "소금을 적게 쓰는 반찬을 소개하고, 방문자가 레시피에 댓글을 남길 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/067-recipes-07",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 868,
+  "title": "아이 도시락 레시피 모음",
+  "desc": "아이를 위한 도시락 메뉴를 소개하고, 도시락 이름으로 레시피를 검색할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/068-recipes-08",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 869,
+  "title": "주말 파티 요리 레시피 공유",
+  "desc": "주말 파티에 내기 좋은 요리를 소개하고, 파티 음식 사진을 파일로 업로드할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/069-recipes-09",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 870,
+  "title": "전자레인지 간편 요리 레시피",
+  "desc": "전자레인지로 만드는 간편 요리를 소개하고, 방문자가 레시피에 좋아요를 누를 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/070-recipes-10",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 871,
+  "title": "두부 반찬 레시피 모음",
+  "desc": "두부로 만드는 반찬을 소개하고, 회원가입과 로그인으로 나만의 두부 레시피를 관리할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/071-recipes-11",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 872,
+  "title": "해산물 파스타 레시피 공유",
+  "desc": "해산물로 만드는 파스타를 공유하고, 방문자가 레시피에 댓글을 남길 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/072-recipes-12",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 873,
+  "title": "고기 없는 채식 요리 레시피 모음",
+  "desc": "고기 없이 만드는 채식 요리를 소개하고, 요리 이름으로 레시피를 검색할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/073-recipes-13",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 874,
+  "title": "봄나물 레시피 공유",
+  "desc": "봄나물로 만드는 요리를 소개하고, 요리 사진을 파일로 업로드할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/074-recipes-14",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 875,
+  "title": "여름 냉국 레시피 모음",
+  "desc": "여름에 먹는 시원한 냉국을 소개하고, 방문자가 레시피에 좋아요와 댓글을 남길 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/075-recipes-15",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 876,
+  "title": "가을 제철 요리 레시피 공유",
+  "desc": "가을 제철 재료로 만드는 요리를 소개하고, 회원가입과 로그인으로 나만의 가을 레시피를 관리할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/076-recipes-16",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 877,
+  "title": "겨울 찌개 레시피 모음",
+  "desc": "겨울에 먹는 따뜻한 찌개를 소개하고, 방문자가 레시피에 댓글을 남길 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/077-recipes-17",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 878,
+  "title": "간식 도시락 레시피 공유",
+  "desc": "나들이용 간식 도시락을 소개하고, 간식 이름으로 레시피를 검색할 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/078-recipes-18",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 879,
+  "title": "아침 죽 레시피 모음",
+  "desc": "아침에 먹는 죽 레시피를 소개하고, 방문자가 레시피에 좋아요를 누를 수 있다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/079-recipes-19",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 880,
+  "title": "세계의 아침 식사 레시피 플랫폼",
+  "desc": "여러 나라의 아침 식사 레시피를 한곳에 모으고, 관리자가 레시피를 검수하고 나라를 관리할 수 있다. 회원가입과 로그인으로 요리사를 구분한다.",
+  "category": "레시피 공유 웹사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/080-recipes-20",
+  "resource": "recipes",
+  "label": "레시피",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 881,
+  "title": "수영 입문 기록",
+  "desc": "수영을 처음 배우는 과정을 기록하고, 영법 이름으로 기록을 검색할 수 있다. 기록은 추가·수정·삭제가 가능하다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/081-fitness-01",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 882,
+  "title": "걷기 운동 코스 기록",
+  "desc": "걸으며 운동한 코스와 거리를 기록하고, 방문자가 코스에 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/082-fitness-02",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 883,
+  "title": "홈 요가 루틴 공유",
+  "desc": "집에서 하는 요가 루틴을 공유하고, 동작 이름으로 기록을 검색할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/083-fitness-03",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 884,
+  "title": "팔 운동 가이드",
+  "desc": "팔 근력을 키우는 운동을 사진과 함께 소개하고, 동작 사진을 파일로 업로드할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/084-fitness-04",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 885,
+  "title": "다리 운동 기록 공유",
+  "desc": "다리 운동 기록을 공유하고, 방문자가 기록에 좋아요와 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/085-fitness-05",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 886,
+  "title": "복부 운동 챌린지 기록",
+  "desc": "복부 운동 챌린지의 진행 상황을 기록하고, 회원가입과 로그인으로 나만의 챌린지 기록을 관리할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/086-fitness-06",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 887,
+  "title": "등 운동 가이드",
+  "desc": "등 근력을 키우는 운동법을 소개하고, 방문자가 가이드에 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/087-fitness-07",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 888,
+  "title": "하체 근력 기록",
+  "desc": "하체 근력 운동의 무게와 횟수를 기록하고, 운동 이름으로 기록을 검색할 수 있다. 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/088-fitness-08",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 889,
+  "title": "상체 근력 기록",
+  "desc": "상체 근력 운동의 기록을 정리하고, 운동 사진을 파일로 업로드할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/089-fitness-09",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 890,
+  "title": "전신 스트레칭 기록",
+  "desc": "전신 스트레칭 동작과 효과를 기록하고, 방문자가 기록에 좋아요와 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/090-fitness-10",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 891,
+  "title": "아침 조깅 기록",
+  "desc": "아침에 뛴 조깅 거리와 페이스를 기록하고, 회원가입과 로그인으로 조깅 기록을 관리할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/091-fitness-11",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 892,
+  "title": "저녁 산책 운동 기록",
+  "desc": "저녁 산책의 걸음 수와 코스를 기록하고, 방문자가 기록에 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/092-fitness-12",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 893,
+  "title": "자전거 통근 운동 기록",
+  "desc": "자전거로 출퇴근하며 쌓은 운동 기록을 정리하고, 코스 이름으로 기록을 검색할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/093-fitness-13",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 894,
+  "title": "스쿼트 챌린지 기록",
+  "desc": "매일 스쿼트 개수를 기록하고, 동작 사진을 파일로 업로드할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/094-fitness-14",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 895,
+  "title": "플랭크 챌린지 기록",
+  "desc": "매일 플랭크 시간을 기록하고, 방문자가 기록에 좋아요와 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/095-fitness-15",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 896,
+  "title": "유산소 운동 기록",
+  "desc": "유산소 운동의 시간과 심박수를 기록하고, 회원가입과 로그인으로 나만의 운동 기록을 관리할 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/096-fitness-16",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 897,
+  "title": "무산소 운동 기록",
+  "desc": "무산소 운동의 세트와 무게를 기록하고, 방문자가 기록에 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/097-fitness-17",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 898,
+  "title": "체력 테스트 기록",
+  "desc": "체력 테스트의 종목별 결과를 기록하고, 테스트 날짜로 기록을 검색할 수 있다. 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "심화",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/098-fitness-18",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 899,
+  "title": "운동 식단 일지",
+  "desc": "운동 전후로 먹은 식단을 기록하고, 방문자가 식단에 좋아요와 댓글을 남길 수 있다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/099-fitness-19",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 900,
+  "title": "운동 종목 통합 가이드 플랫폼",
+  "desc": "여러 종목의 운동 가이드를 한곳에 모으고, 관리자가 가이드를 검수하고 종목을 관리할 수 있다. 회원가입과 로그인으로 회원을 구분한다.",
+  "category": "헬스 및 운동 정보 제공 페이지",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/100-fitness-20",
+  "resource": "workouts",
+  "label": "운동 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 901,
+  "title": "속초 바다 여행 기록",
+  "desc": "속초의 바다와 해변을 기록하고, 바닷가 사진을 파일로 업로드할 수 있다. 기록은 추가·수정·삭제가 가능하다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/101-travel-01",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 902,
+  "title": "전주 한옥 여행 기록",
+  "desc": "전주 한옥의 골목과 전통을 기록하고, 방문자가 일지에 댓글을 남길 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/102-travel-02",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 903,
+  "title": "순천만 여행 사진",
+  "desc": "순천만의 갈대밭과 습지를 사진과 함께 기록하고, 장소 이름으로 기록을 검색할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/103-travel-03",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 904,
+  "title": "제주 동쪽 여행 일지",
+  "desc": "제주 동쪽의 해변과 오름을 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/104-travel-04",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 905,
+  "title": "제주 서쪽 여행 일지",
+  "desc": "제주 서쪽의 바다와 카페를 기록하고, 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/105-travel-05",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 906,
+  "title": "남해안 섬 여행 기록",
+  "desc": "남해안의 섬들을 기록하고, 회원가입과 로그인으로 나만의 여행 일지를 관리할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/106-travel-06",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 907,
+  "title": "강원도 계곡 여행 사진",
+  "desc": "강원도 계곡의 맑은 물과 풍경을 기록하고, 방문자가 기록에 댓글을 남길 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/107-travel-07",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 908,
+  "title": "부산 해운대 여행 기록",
+  "desc": "해운대의 해변과 야경을 기록하고, 장소 이름으로 기록을 검색할 수 있다. 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/108-travel-08",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 909,
+  "title": "경주 벚꽃 여행 기록",
+  "desc": "경주의 벚꽃 명소를 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/109-travel-09",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 910,
+  "title": "강릉 바다 여행 기록",
+  "desc": "강릉의 바다와 해변을 기록하고, 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/110-travel-10",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 911,
+  "title": "여수 섬 여행 사진",
+  "desc": "여수의 섬과 바다를 사진과 함께 기록하고, 회원가입과 로그인으로 나만의 여행 일지를 관리할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/111-travel-11",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 912,
+  "title": "대전 근교 여행 일지",
+  "desc": "대전 근처의 당일치기 명소를 기록하고, 방문자가 일지에 댓글을 남길 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/112-travel-12",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 913,
+  "title": "광주 문화 여행 기록",
+  "desc": "광주의 문화 공간과 전시를 기록하고, 장소 이름으로 기록을 검색할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/113-travel-13",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 914,
+  "title": "대구 도심 여행 사진",
+  "desc": "대구 도심의 거리와 명소를 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/114-travel-14",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 915,
+  "title": "인천 차이나타운 여행 기록",
+  "desc": "인천 차이나타운의 먹거리와 볼거리를 기록하고, 방문자가 기록에 좋아요와 댓글을 남길 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/115-travel-15",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 916,
+  "title": "포항 호미곶 여행 일지",
+  "desc": "호미곶의 일출과 바다를 기록하고, 회원가입과 로그인으로 나만의 여행 일지를 관리할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/116-travel-16",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 917,
+  "title": "군산 시간여행 기록",
+  "desc": "군산의 근대 거리와 역사를 기록하고, 방문자가 기록에 댓글을 남길 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/117-travel-17",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 918,
+  "title": "서산 해미읍성 여행 기록",
+  "desc": "해미읍성의 성과 풍경을 기록하고, 장소 이름으로 기록을 검색할 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/118-travel-18",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 919,
+  "title": "부여 공주 여행 기록",
+  "desc": "부여와 공주의 백제 유적지를 기록하고, 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/119-travel-19",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 920,
+  "title": "한국 기차 여행 일지 공유 플랫폼",
+  "desc": "한국의 기차 여행 일지를 여러 여행자가 함께 쓰고, 관리자가 일지를 검수하고 노선을 관리할 수 있다. 회원가입과 로그인으로 여행자를 구분한다.",
+  "category": "여행 일지 공유 사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/120-travel-20",
+  "resource": "trips",
+  "label": "여행 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 921,
+  "title": "새벽 감성 음악 모음",
+  "desc": "새벽에 듣기 좋은 잔잔한 음악을 소개하고, 곡 이름으로 검색할 수 있다. 곡은 추가·수정·삭제가 가능하다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/121-music-01",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 922,
+  "title": "출근길 음악 추천",
+  "desc": "출근길에 듣는 활기찬 노래를 추천하고, 방문자가 곡에 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/122-music-02",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 923,
+  "title": "퇴근길 음악 모음",
+  "desc": "퇴근길에 듣는 노래를 모아 소개하고, 가수 이름으로 곡을 검색할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/123-music-03",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 924,
+  "title": "주말 브런치 음악 추천",
+  "desc": "주말 브런치에 어울리는 음악을 추천하고, 음악을 파일로 업로드할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/124-music-04",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 925,
+  "title": "공부 집중 음악 모음",
+  "desc": "공부에 집중할 때 듣는 음악을 공유하고, 방문자가 곡에 좋아요와 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/125-music-05",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 926,
+  "title": "독서 배경 음악 모음",
+  "desc": "책을 읽을 때 듣는 음악을 소개하고, 회원가입과 로그인으로 나만의 음악 기록을 관리할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/126-music-06",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 927,
+  "title": "요가 명상 음악 모음",
+  "desc": "요가와 명상에 어울리는 음악을 소개하고, 방문자가 곡에 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/127-music-07",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 928,
+  "title": "러닝 비트 음악 추천",
+  "desc": "달릴 때 듣는 비트 있는 음악을 추천하고, 곡 이름으로 검색할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/128-music-08",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 929,
+  "title": "자전거 라이딩 음악 모음",
+  "desc": "라이딩할 때 듣는 음악을 공유하고, 음악 파일을 업로드할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/129-music-09",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 930,
+  "title": "캠핑 음악 추천",
+  "desc": "캠핑장에서 듣는 음악을 추천하고, 방문자가 곡에 좋아요와 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/130-music-10",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 931,
+  "title": "별 보며 듣는 음악 모음",
+  "desc": "별을 보며 듣는 잔잔한 노래를 소개하고, 회원가입과 로그인으로 나만의 음악 기록을 관리할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/131-music-11",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 932,
+  "title": "가을 감성 음악 모음",
+  "desc": "가을에 듣기 좋은 음악을 소개하고, 방문자가 곡에 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/132-music-12",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 933,
+  "title": "겨울 감성 음악 모음",
+  "desc": "겨울에 듣는 따뜻한 노래를 소개하고, 계절로 곡을 검색할 수 있다. 방문자가 곡에 좋아요를 누를 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/133-music-13",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 934,
+  "title": "봄 소풍 음악 모음",
+  "desc": "봄 소풍에 어울리는 음악을 소개하고, 곡 목록을 파일로 업로드할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/134-music-14",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 935,
+  "title": "크리스마스 음악 모음",
+  "desc": "크리스마스에 듣는 캐럴과 노래를 추천하고, 방문자가 곡에 좋아요와 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/135-music-15",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 936,
+  "title": "새해 음악 모음",
+  "desc": "새해에 듣는 희망찬 노래를 공유하고, 회원가입과 로그인으로 나만의 음악 기록을 관리할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/136-music-16",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 937,
+  "title": "생일 축하 음악 모음",
+  "desc": "생일에 듣는 축하 노래를 소개하고, 방문자가 곡에 댓글을 남길 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/137-music-17",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 938,
+  "title": "결혼식 축가 모음",
+  "desc": "결혼식 축가로 부르기 좋은 노래를 소개하고, 축가 이름으로 곡을 검색할 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/138-music-18",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 939,
+  "title": "추억의 동요 모음",
+  "desc": "어릴 적 부르던 동요를 모아 소개하고, 방문자가 곡에 좋아요를 누를 수 있다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/139-music-19",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 940,
+  "title": "세계 민요 음악 공유 플랫폼",
+  "desc": "여러 나라의 민요를 여러 사용자가 함께 추천하고, 관리자가 곡을 검수하고 나라를 관리할 수 있다. 회원가입과 로그인으로 사용자를 구분한다.",
+  "category": "음악 추천 및 공유 플랫폼",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/140-music-20",
+  "resource": "tracks",
+  "label": "곡",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 941,
+  "title": "자취 요리 질문 포럼",
+  "desc": "자취 요리에 대한 질문과 답변을 나누는 게시판이다. 요리 사진을 파일로 업로드할 수 있다. 글은 작성·수정·삭제가 가능하다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/141-forum-01",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 942,
+  "title": "반려묘 키우기 포럼",
+  "desc": "반려묘를 키우며 생긴 질문과 답변을 나누고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/142-forum-02",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 943,
+  "title": "중고 자전거 거래 포럼",
+  "desc": "중고 자전거 거래 후기를 공유하고, 자전거 모델로 글을 검색할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/143-forum-03",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 944,
+  "title": "홈카페 사진 자랑 포럼",
+  "desc": "집에서 만든 카페 음료 사진을 자랑하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/144-forum-04",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 945,
+  "title": "출근길 음악 모임 포럼",
+  "desc": "출근길 음악 모임의 후기를 나누고, 방문자가 글에 좋아요와 댓글을 남길 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/145-forum-05",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 946,
+  "title": "동네 운동 모임 포럼",
+  "desc": "동네 운동 모임의 일정과 후기를 공유하고, 회원가입과 로그인으로 모임 글을 관리할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/146-forum-06",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 947,
+  "title": "독서 모임 질문 포럼",
+  "desc": "독서 모임의 질문과 답변을 나누고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/147-forum-07",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 948,
+  "title": "자동차 정비 팁 포럼",
+  "desc": "자동차 정비 팁과 질문을 나누고, 부품 이름으로 글을 검색할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/148-forum-08",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 949,
+  "title": "홈트레이닝 후기 포럼",
+  "desc": "홈트레이닝 후기와 질문을 공유하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/149-forum-09",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 950,
+  "title": "새벽 산책 모임 포럼",
+  "desc": "새벽 산책 모임의 인증과 후기를 나누고, 방문자가 글에 좋아요를 누를 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/150-forum-10",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 951,
+  "title": "지역 카페 추천 포럼",
+  "desc": "지역 카페를 추천하고 후기를 나누며, 회원가입과 로그인으로 추천 글을 관리할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/151-forum-11",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 952,
+  "title": "드라마 감상 토론 포럼",
+  "desc": "본 드라마의 감상을 토론하고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/152-forum-12",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 953,
+  "title": "사진 취미 공유 포럼",
+  "desc": "사진 취미의 작품과 팁을 나누고, 주제별로 글을 검색할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/153-forum-13",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 954,
+  "title": "텃밭 나눔 질문 포럼",
+  "desc": "텃밭 나눔과 질문을 나누고, 사진을 파일로 업로드할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/154-forum-14",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 955,
+  "title": "직장인 도시락 포럼",
+  "desc": "직장인 도시락 메뉴를 추천하고, 방문자가 글에 좋아요와 댓글을 남길 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/155-forum-15",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 956,
+  "title": "여행 숙소 절약 포럼",
+  "desc": "여행 숙소를 아끼는 방법을 나누고, 회원가입과 로그인으로 절약 팁 글을 관리할 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/156-forum-16",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 957,
+  "title": "악기 연습 질문 포럼",
+  "desc": "악기 연습 질문과 답변을 나누고, 방문자가 글에 댓글을 남길 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/157-forum-17",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 958,
+  "title": "캠핑 장비 추천 포럼",
+  "desc": "캠핑 장비를 추천하고 후기를 나누며, 장비 이름으로 글을 검색할 수 있다. 방문자가 글에 좋아요를 누를 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "심화",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/158-forum-18",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 959,
+  "title": "다이어트 운동 공유 포럼",
+  "desc": "다이어트에 좋은 운동을 공유하고, 방문자가 글에 좋아요를 누를 수 있다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/159-forum-19",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 960,
+  "title": "취미 정보 종합 포럼 플랫폼",
+  "desc": "여러 취미의 정보를 한곳에 모으고, 관리자가 게시판을 개설하고 글을 관리할 수 있다. 회원가입과 로그인으로 회원을 구분한다.",
+  "category": "온라인 포럼 사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/160-forum-20",
+  "resource": "threads",
+  "label": "게시글",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 961,
+  "title": "수제 쿠키 온라인 상점",
+  "desc": "직접 만든 쿠키를 판매하고, 쿠키 종류로 상품을 검색할 수 있다. 상품은 추가·수정·삭제가 가능하다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/161-shop-01",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 962,
+  "title": "수제 케이크 상점",
+  "desc": "직접 만든 케이크를 판매하고, 방문자가 상품에 댓글을 남길 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/162-shop-02",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 963,
+  "title": "빈티지 포스터 상점",
+  "desc": "수집한 빈티지 포스터를 판매하고, 포스터 이름으로 상품을 검색할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/163-shop-03",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 964,
+  "title": "반려묘 간식 상점",
+  "desc": "반려묘 간식을 소개하고, 상품 사진을 파일로 업로드할 수 있다. 방문자가 상품에 좋아요를 누를 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "likes",
+   "upload"
+  ],
+  "folder": "day-2026-11-26/164-shop-04",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 965,
+  "title": "수제 방향제 상점",
+  "desc": "직접 만든 방향제를 판매하고, 방문자가 상품에 좋아요와 댓글을 남길 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/165-shop-05",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 966,
+  "title": "지역 농산물 온라인 상점",
+  "desc": "지역 농산물을 소개하고, 회원가입과 로그인으로 주문을 관리할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/166-shop-06",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 967,
+  "title": "수제 차 상점",
+  "desc": "직접 만든 차를 판매하고, 방문자가 상품에 댓글을 남길 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/167-shop-07",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 968,
+  "title": "미니 식물 상점",
+  "desc": "작은 미니 식물을 소개하고, 식물 이름으로 상품을 검색할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/168-shop-08",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 969,
+  "title": "핸드메이드 가방 상점",
+  "desc": "직접 만든 가방을 판매하고, 상품 사진을 파일로 업로드할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/169-shop-09",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 970,
+  "title": "캠핑 의자 상점",
+  "desc": "캠핑 의자를 소개하고, 방문자가 상품에 좋아요를 누를 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/170-shop-10",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 971,
+  "title": "아동 의류 온라인 상점",
+  "desc": "아동 의류를 판매하고, 회원가입과 로그인으로 주문을 관리할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/171-shop-11",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 972,
+  "title": "전통 차 상점",
+  "desc": "전통 차를 소개하고, 방문자가 상품에 댓글을 남길 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/172-shop-12",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 973,
+  "title": "드립 커피 상점",
+  "desc": "다양한 드립 커피를 판매하고, 커피 이름으로 상품을 검색할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/173-shop-13",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 974,
+  "title": "아로마 오일 상점",
+  "desc": "아로마 오일을 소개하고, 상품 사진을 파일로 업로드할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/174-shop-14",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 975,
+  "title": "요가 용품 상점",
+  "desc": "요가 용품을 판매하고, 방문자가 상품에 좋아요와 댓글을 남길 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/175-shop-15",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 976,
+  "title": "중고 의류 온라인 상점",
+  "desc": "중고 의류를 판매하고, 회원가입과 로그인으로 판매 글을 관리할 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/176-shop-16",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 977,
+  "title": "수제 마카롱 상점",
+  "desc": "직접 만든 마카롱을 판매하고, 방문자가 상품에 댓글을 남길 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/177-shop-17",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 978,
+  "title": "정원 도구 상점",
+  "desc": "정원 도구를 소개하고, 도구 이름으로 상품을 검색할 수 있다. 방문자가 상품에 좋아요를 누를 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "심화",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/178-shop-18",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 979,
+  "title": "여행 소품 상점",
+  "desc": "여행용 소품을 판매하고, 방문자가 상품에 좋아요를 누를 수 있다.",
+  "category": "온라인 상점",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/179-shop-19",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 980,
+  "title": "로컬 마켓 플랫폼",
+  "desc": "여러 지역의 로컬 상품을 한곳에 모으고, 관리자가 상품을 검수하고 지역을 관리할 수 있다. 회원가입과 로그인으로 판매자를 구분한다.",
+  "category": "온라인 상점",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/180-shop-20",
+  "resource": "products",
+  "label": "상품",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 981,
+  "title": "오늘의 기온 알림",
+  "desc": "오늘의 기온 정보를 소개하고, 기온 기록 사진을 파일로 업로드할 수 있다. 기록은 추가·수정·삭제가 가능하다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/181-weather-01",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 982,
+  "title": "주말 비 예보 공유",
+  "desc": "주말의 비 예보를 공유하고, 방문자가 예보에 댓글을 남길 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/182-weather-02",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 983,
+  "title": "계절별 우천 가이드",
+  "desc": "계절별 비 오는 날 대비법을 소개하고, 계절로 가이드를 검색할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/183-weather-03",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 984,
+  "title": "눈 오는 날 사진",
+  "desc": "눈 오는 날의 풍경을 사진과 함께 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/184-weather-04",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 985,
+  "title": "바람 강한 날 기록",
+  "desc": "바람이 강한 날의 풍경과 소식을 공유하고, 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/185-weather-05",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 986,
+  "title": "태풍 대비 알림",
+  "desc": "태풍 대비 방법을 기록하고, 회원가입과 로그인으로 나만의 알림 기록을 관리할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/186-weather-06",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 987,
+  "title": "봄꽃 개화 예보",
+  "desc": "봄꽃 개화 시기를 공유하고, 방문자가 소식에 댓글을 남길 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "입문",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/187-weather-07",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 988,
+  "title": "여름 장마 대비 가이드",
+  "desc": "장마 대비 방법을 소개하고, 지역으로 가이드를 검색할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/188-weather-08",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 989,
+  "title": "가을 하늘 사진 기록",
+  "desc": "가을 하늘을 사진과 함께 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/189-weather-09",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 990,
+  "title": "겨울 눈길 기록",
+  "desc": "겨울 눈길과 대비법을 공유하고, 방문자가 기록에 좋아요를 누를 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/190-weather-10",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 991,
+  "title": "일몰 시간 기록",
+  "desc": "일몰 시간을 기록하고, 회원가입과 로그인으로 나만의 기록을 관리할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/191-weather-11",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 992,
+  "title": "별 보이는 날 기록",
+  "desc": "별이 잘 보이는 날의 날씨를 기록하고, 방문자가 기록에 댓글을 남길 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/192-weather-12",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 993,
+  "title": "파도 예보",
+  "desc": "파도 높이와 서핑 예보를 소개하고, 지역으로 예보를 검색할 수 있다. 방문자가 예보에 좋아요를 누를 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "likes",
+   "search"
+  ],
+  "folder": "day-2026-11-26/193-weather-13",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 994,
+  "title": "산행 날씨 기록",
+  "desc": "산행 지역의 날씨를 사진과 함께 기록하고, 사진을 파일로 업로드할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "기본",
+  "features": [
+   "upload"
+  ],
+  "folder": "day-2026-11-26/194-weather-14",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 995,
+  "title": "황사 주의 알림",
+  "desc": "황사 주의 방법을 공유하고, 방문자가 가이드에 좋아요와 댓글을 남길 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments",
+   "likes"
+  ],
+  "folder": "day-2026-11-26/195-weather-15",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 996,
+  "title": "장마철 우산 기록",
+  "desc": "장마철 우산 준비와 대비법을 기록하고, 회원가입과 로그인으로 나만의 기록을 관리할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth"
+  ],
+  "folder": "day-2026-11-26/196-weather-16",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 997,
+  "title": "안개 낀 저녁 풍경",
+  "desc": "안개 낀 저녁 풍경을 기록하고, 방문자가 기록에 댓글을 남길 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "심화",
+  "features": [
+   "comments"
+  ],
+  "folder": "day-2026-11-26/197-weather-17",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 998,
+  "title": "지역별 강수량 비교",
+  "desc": "지역별 강수량을 비교해 소개하고, 지역 이름으로 기록을 검색할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "심화",
+  "features": [
+   "search"
+  ],
+  "folder": "day-2026-11-26/198-weather-18",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 999,
+  "title": "날씨 일기 공모 기록",
+  "desc": "날씨 일기를 공모해 소개하고, 방문자가 일기에 좋아요를 누를 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "심화",
+  "features": [
+   "likes"
+  ],
+  "folder": "day-2026-11-26/199-weather-19",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
+ },
+ {
+  "num": 1000,
+  "title": "날씨 정보 종합 플랫폼",
+  "desc": "전국 날씨 정보를 한 화면에서 보고, 관리자가 관측 데이터를 검수한다. 회원가입과 로그인을 하면 관심 지역을 저장하고, 지역을 검색하며, 날씨 기록에 댓글을 달고 좋아요를 눌러 공유할 수 있다.",
+  "category": "날씨 정보 제공 사이트",
+  "difficulty": "심화",
+  "features": [
+   "auth",
+   "comments",
+   "likes",
+   "search",
+   "admin"
+  ],
+  "folder": "day-2026-11-26/200-weather-20",
+  "resource": "reports",
+  "label": "날씨 기록",
+  "day": 5,
+  "date": "2026-11-26"
  }
 ]
